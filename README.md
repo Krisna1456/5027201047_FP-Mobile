@@ -1,7 +1,8 @@
 # Proyek Aplikasi FP
-Made Gde KrisnaWangsa/5027201047
+### Made Gde KrisnaWangsa/5027201047 
 
-Repositori ini berisi berbagai aplikasi yang dikembangkan dalam cabang-cabang terpisah. Berikut adalah penjelasan mengenai masing-masing cabang:
+
+Aplikasi terdapat pada dalam Branch-branch terpisah.
 
 ## Branch `main` - Aplikasi E-commerce
 
